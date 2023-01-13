@@ -1,3 +1,48 @@
-body {
-
+body{
+  background-color: #1994F1
+}
+h2{
+  color:#B0D4E7;
+  font-size:400%;
+  letter-spacing:6px;
+  text-decoration: underline;
+}
+p{
+  color:#81D6FA;
+  font-size:200%;
+  letter-spacing:6px;
+}
+img{
+  border: inset #B0D4E7 15px;
+  height: 100%;
+  width: 20%;
+}
+iframe{
+  border: dashed #80C2AF 10px;
+}
+h3{
+  color:#B0D4E7;
+  font-size:200%;
+  letter-spacing:6px;
+}
+ul{
+  list-style-type:none;
+  text-align:center;
+  position:fixed;
+  width:100%;
+}
+li{
+  float:left;
+}
+li a {
+  padding: 50px;
+  font-family: "Times New Roman", Fantasy;
+  background-color: #B0D4E7;
+  border-style: solid;
+  color: white;
+  text-decoration-line:none;
+}
+li a:hover{
+  background-color: white;
+  color:#B0D4E7;
 }
